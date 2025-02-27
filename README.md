@@ -1,16 +1,15 @@
-## Hi there 👋
+```
+Hello world!
 
-<!--
-**dmitriynaumov1024/dmitriynaumov1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dmitriy and I am a full stack web developer.
 
-Here are some ideas to get you started:
+I have more than 2 years of non-commercial but solid experience with these technologies:
+- C#, ASP.NET Core
+- JavaScript, Node.js
+- HTML, CSS, Sass
+- Vue.js, Vite
+- SQL (postgres, sqlite)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I am learning Python, FastAPI and React.
+
+```
